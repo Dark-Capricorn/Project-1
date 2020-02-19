@@ -1,0 +1,9 @@
+html {
+  background-image: url(img/winter.jpg);
+  background-size: 100%;
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  background-image: url(img/rose.jpg);
+}
